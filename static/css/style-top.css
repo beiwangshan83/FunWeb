@@ -12,7 +12,7 @@
   overflow: hidden;
   text-indent: 100%;
   white-space: nowrap;
-  background: rgba(232, 98, 86, 0.8) url(../img/cd-top-arrow.svg) no-repeat center 50%;
+  background: rgba(232, 98, 86, 0.8) url(https://cdn.jsdelivr.net/gh/beiwangshan83/cdnhub@1.1/FunWeb/img/cd-top-arrow.svg) no-repeat center 50%;
   visibility: hidden;
   opacity: 0;
   -webkit-transition: opacity .3s 0s, visibility 0s .3s;

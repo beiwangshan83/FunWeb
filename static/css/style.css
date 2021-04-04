@@ -2,7 +2,6 @@ body {
     background: #fff;
     margin: 0
 }
-
 ul,
 li {
     padding: 0;
@@ -86,7 +85,8 @@ header {
 }
 
 header .logo {
-    margin-top: 80px
+    margin-top:80px;
+    margin-right: 20px;
 }
 
 header input {
@@ -219,7 +219,7 @@ header .rights p {
     width: 30%;
     max-width: 450px;
     padding-left: 30px;
-    padding-top: 30px
+    padding-top: 30px;
 }
 
 .link_item .content {

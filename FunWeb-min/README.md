@@ -1,6 +1,6 @@
 # FunWeb基于奇趣网站收藏家fuun.fun二次修改版
 
-此版本为**::name_badge:开发版:name_badge:**，部署请使用**:hamburger:FunWeb-min:hamburger:**   
+此版本为**:tangerine:压缩版:tangerine:**，部署请使用**:hamburger:FunWeb-min:hamburger:**  
 
 ## :walking:预览
 
@@ -23,7 +23,7 @@
 - PC端增加返回顶部按钮，移动端正在适配
 - 修改浏览器滚动条样式
 - 静态资源使用JsDriver加速引入
-- 随机壁纸
+- 持续更新中。。。
 
 
 
