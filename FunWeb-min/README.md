@@ -31,11 +31,7 @@
 
 ### 站点使用
 
-:taxi:移步至最新发布版本
-
- 		:scissors:压缩版本（部署用这个）
-
-​		:dash:开发版本（修改开发用这个）
+:taxi:移步至最新发布版本:**[Release 第一次修改版 · beiwangshan83/FunWeb (github.com)](https://github.com/beiwangshan83/FunWeb/releases/tag/1.0.0)**
 
 :taxi:解压后上传FunWeb里面的所有内容至网站根目录，站点使用纯静态
 
